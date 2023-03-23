@@ -1,0 +1,34 @@
+{
+    "name": "MyInputActions",
+    "maps": [
+        {
+            "name": "PersonAMap",
+            "id": "80744757-dbda-4e17-930b-f51fed975cd5",
+            "actions": [
+                {
+                    "name": "Restart",
+                    "type": "Button",
+                    "id": "d2c15fac-e793-4131-b2a8-a55f104f088d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "262a32c9-13bd-4ed6-8e88-fd36c1489095",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Restart",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
